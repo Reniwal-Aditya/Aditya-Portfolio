@@ -6,12 +6,12 @@
 ---
 
 ## 🌟 Live Preview  
-⏳ _Coming soon... Stay tuned!_
+### ⏳ _Coming soon... Stay tuned!_
 
 ---
 
 ## 🧠 Tech Stack Used  
-Built using a clean, minimal, yet engaging stack:  
+### Built using a clean, minimal, yet engaging stack:  
 
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,37 +25,53 @@ Built using a clean, minimal, yet engaging stack:
 
 ## ✨ Features  
 
-- 🌀 **Stunning CSS animations** for the hero section and UI elements  
-- 🎯 **Smooth navigation bar** with highlighted sections: About | Skills | Projects  
-- 🧩 **Component-based layout** using HTML sections with semantic structure  
-- 💬 **Call-to-action buttons** and contact link with subtle hover effects  
-- 🌌 **Animated galaxy theme** with cosmic icons & glowing aesthetics  
-- 🧲 **Interactive skills section** with **JS-powered slider animation** (🎥 see below)
-
----
-
-## 🧪 Skills Section Preview  
-🎥 _Video demo of the slider goes here_  
-[![](https://img.shields.io/badge/-Skills%20Slider%20Video-444?style=for-the-badge&logo=youtube&logoColor=white)](./Videos/preview.gif)
+### 🌀 **Stunning CSS animations** for the hero section and UI elements  
+### 🎯 **Smooth navigation bar** with highlighted sections: About | Skills | Projects  
+### 🧩 **Component-based layout** using HTML sections with semantic structure  
+### 💬 **Call-to-action buttons** and contact link with subtle hover effects  
+### 🌌 **Animated galaxy theme** with cosmic icons & glowing aesthetics  
+### 🧲 **Interactive skills section** with **JS-powered slider animation**
 
 ---
 
 ## 🛠 To-Do / Final Touches  
-- [ ] Replace placeholder image icons with optimized assets  
-- [ ] Final polish on animations and responsiveness  
-- [ ] 🚀 **Deploy to GitHub Pages / Vercel / Netlify**  
-- [ ] Add skill section slider video embed in this README  
+
+### ⚡ **Remaining Tasks:**
+- [ ] **Replace placeholder image icons** with optimized assets  
+- [ ] **Final polish** on animations and responsiveness  
+- [ ] 🚀 **Deploy to Vercel / Netlify**  
 
 ---
+
 ## 🤝 Let's Connect
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/-Aditya%20Reniwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-reniwal)  
-[![GitHub](https://img.shields.io/badge/-Reniwal--Aditya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reniwal-Aditya)  
-[![Twitter / X](https://img.shields.io/badge/-@ReniwalAditya-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ReniwalAditya)
+[![LinkedIn](https://img.shields.io/badge/-Aditya%20Reniwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/aditya-reniwal)  
+
+[![GitHub](https://img.shields.io/badge/-Reniwal--Aditya-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Reniwal-Aditya)  
+
+[![Twitter / X](https://img.shields.io/badge/-@ReniwalAditya-1DA1F2?style=for-the-badge&logo=x&logoColor=white&labelColor=1DA1F2)](https://x.com/ReniwalAditya)
 
 </div>
 
+---
 
-> 🔧 This portfolio is a work-in-progress. Image tweaks, final touches, and deployment will be wrapped up **ASAP**. Stay tuned!
+## 🎯 Project Status
+
+> ### 🔧 This portfolio is a **work-in-progress**. Image tweaks, final touches, and deployment will be wrapped up **ASAP**. Stay tuned!
+
+---
+
+### 📋 **Project Highlights:**
+- **Modern Design:** Space-themed aesthetic with smooth animations
+- **Performance Optimized:** Lightweight vanilla JavaScript implementation  
+- **Mobile Responsive:** Seamless experience across all devices
+- **Interactive Elements:** Engaging hover effects and transitions
+- **Clean Architecture:** Well-structured, maintainable codebase
+
+---
+
+### 🌟 **Coming Next:**
+1. **Live Deployment** 🌐
+2. **Additional Interactive Features** 🎮
