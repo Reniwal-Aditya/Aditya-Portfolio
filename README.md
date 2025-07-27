@@ -36,7 +36,7 @@ Built using a clean, minimal, yet engaging stack:
 
 ## 🧪 Skills Section Preview  
 🎥 _Video demo of the slider goes here_  
-[![](https://img.shields.io/badge/-Skills%20Slider%20Video-444?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![](https://img.shields.io/badge/-Skills%20Slider%20Video-444?style=for-the-badge&logo=youtube&logoColor=white)](./Videos/preview gif.gif)
 
 ---
 
