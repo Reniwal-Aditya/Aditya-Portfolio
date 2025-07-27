@@ -1,6 +1,6 @@
 # 🚀 Aditya Reniwal – Developer Portfolio 💻🌌  
 
-![Screenshot](./Screenshot%202025-07-27%20200838.png)  
+![Screenshot](./images/preview)  
 *📸 A glimpse into the homepage hero section – sleek, animated, and space-inspired.*
 
 ---
