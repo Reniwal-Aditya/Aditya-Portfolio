@@ -36,7 +36,7 @@ Built using a clean, minimal, yet engaging stack:
 
 ## 🧪 Skills Section Preview  
 🎥 _Video demo of the slider goes here_  
-[![](https://img.shields.io/badge/-Skills%20Slider%20Video-444?style=for-the-badge&logo=youtube&logoColor=white)](./Videos/preview gif.gif)
+[![](https://img.shields.io/badge/-Skills%20Slider%20Video-444?style=for-the-badge&logo=youtube&logoColor=white)](./Videos/preview.gif)
 
 ---
 
@@ -47,12 +47,15 @@ Built using a clean, minimal, yet engaging stack:
 - [ ] Add skill section slider video embed in this README  
 
 ---
+## 🤝 Let's Connect
 
-## 🤝 Let's Connect  
-Find me on:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/yourprofile)  
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/-Aditya%20Reniwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-reniwal)  
+[![GitHub](https://img.shields.io/badge/-Reniwal--Aditya-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Reniwal-Aditya)  
+[![Twitter / X](https://img.shields.io/badge/-@ReniwalAditya-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ReniwalAditya)
 
----
+</div>
+
 
 > 🔧 This portfolio is a work-in-progress. Image tweaks, final touches, and deployment will be wrapped up **ASAP**. Stay tuned!
