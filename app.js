@@ -4,7 +4,7 @@ const video3 = document.getElementById("projectVideo3");
 
 const hoverSign = document.querySelector(".hover-sign"); 
 
-const videoList = [video1, video2];
+const videoList = [video1, video2, video3];
 
 videoList.forEach(function(video) {
     video.addEventListener('mouseover', function(){
